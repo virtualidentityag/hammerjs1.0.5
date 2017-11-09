@@ -1,5 +1,7 @@
 # Hammer.js [![Build Status](https://travis-ci.org/EightMedia/hammer.js.png)](https://travis-ci.org/EightMedia/hammer.js/)
 
+### Repository with specific Version 1.0.5 for loading this plugin via npm.
+
 ### A javascript library for multi-touch gestures
 
 > I told you, homeboy /
